@@ -1,0 +1,17 @@
+body {
+    background-image: url(./img/s17Qi.jpg);
+    background-size: 95%;
+}
+
+#box { 
+    width: 100px; 
+    height: 100px; 
+    position: absolute; 
+    background-image: url(./img/8a6a65dee0f2e94fa62f183ee6d4d6ff.jpg);
+    background-size: 100%;
+    background-position: 0 -5px;
+    border-radius: 100%;
+    border: double 60px rgba(36, 48, 153, 0.438);
+    left: 200px; 
+    top: 200px; 
+}
